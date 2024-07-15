@@ -21,3 +21,8 @@ Imprima a posição final do herói após dar a quantidade de passos especificad
 Exemplo com alguns dados de entrada e suas respectivas saídas esperadas. Certifique-se de testar seu programa com esses exemplos e com outros casos possíveis.
 
 Entrada: Posição inicial do herói: 2; Passos: 3 -> Saída: Posição final do herói: 5.
+
+# Execução de testes
+
+
+![PrintDesafio](https://github.com/user-attachments/assets/42f5356e-8dbf-48fa-8b10-b3495a33e02a)
